@@ -1,8 +1,7 @@
-{
-  "sites" : [
+[
     {
     "url": "https://google.com",
-    "img": "https://google.com/icon.png"
+    "img" : "https://google.com/icon.png"
     },
     {
     "url": "https://yomovies.cash",
@@ -17,4 +16,3 @@
     "img": "https://example.com/rootflix.png"
     }
   ]
-}
