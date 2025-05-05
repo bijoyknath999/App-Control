@@ -1,18 +1,8 @@
-[
-    {
-    "url": "https://google.com",
-    "img" : "https://google.com/icon.png"
-    },
-    {
-    "url": "https://yomovies.cash",
-    "img": "https://example.com/yomovies.png"
-    },
-    {
-    "url": "https://app.tometohub.com/server/client",
-    "img": "https://example.com/tometohub.png"
-    },
-    {
-    "url": "https://rootflix.top",
-    "img": "https://example.com/rootflix.png"
-    }
-]
+{
+  "sites": [
+    "https://google.com",
+    "https://yomovies.cash",
+    "https://app.tometohub.com/server/client/",
+    "https://rootflix.top",
+  ]
+}
