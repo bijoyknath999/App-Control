@@ -1,5 +1,4 @@
-{
-  [
+[
   {
     "url": "https://google.com",
     "img": "https://google.com/icon.png"
@@ -17,4 +16,3 @@
     "img": "https://example.com/rootflix.png"
   }
 ]
-}
